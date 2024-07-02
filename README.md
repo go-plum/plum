@@ -1,6 +1,9 @@
 
 Translations: [English](README.md) | [简体中文](README_zh.md)
 
+![views since 2024/07/02](https://visitor-badge-deno.deno.dev/go-plum.plum.svg)
+
+
 # Plum 
 
 Plum is a Simple,General,Highly efficient,Stable,High-performance,Expandability, zero-dependency HTTP library for Go.
