@@ -24,7 +24,7 @@ Plum is also an ideal one learning warehouse
 
 	Zero-dependency
 	Simple
-	Genneral
+	General
 	Stable
 	Expandability
 	
